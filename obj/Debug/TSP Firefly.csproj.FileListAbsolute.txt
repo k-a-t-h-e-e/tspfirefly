@@ -1,0 +1,14 @@
+C:\Users\Kathee\Desktop\Firefily-Algo-TSPSolver-ec60f7336505a9b0b689af748e1d029291d9b33c\MainForm\obj\Debug\TSP Firefly.csproj.AssemblyReference.cache
+C:\Users\Kathee\Desktop\Firefily-Algo-TSPSolver-ec60f7336505a9b0b689af748e1d029291d9b33c\MainForm\obj\Debug\TSP Firefly.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kathee\Desktop\Firefily-Algo-TSPSolver-ec60f7336505a9b0b689af748e1d029291d9b33c\MainForm\obj\Debug\MainForm.MainForm.resources
+C:\Users\Kathee\Desktop\Firefily-Algo-TSPSolver-ec60f7336505a9b0b689af748e1d029291d9b33c\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\Kathee\Desktop\Firefily-Algo-TSPSolver-ec60f7336505a9b0b689af748e1d029291d9b33c\MainForm\obj\Debug\TSP Firefly.csproj.GenerateResource.cache
+C:\Users\Kathee\Desktop\Firefily-Algo-TSPSolver-ec60f7336505a9b0b689af748e1d029291d9b33c\MainForm\obj\Debug\TSP Firefly.csproj.CoreCompileInputs.cache
+C:\Users\Kathee\Desktop\Firefily-Algo-TSPSolver-ec60f7336505a9b0b689af748e1d029291d9b33c\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\Kathee\Desktop\Firefily-Algo-TSPSolver-ec60f7336505a9b0b689af748e1d029291d9b33c\MainForm\bin\Debug\MainForm.exe
+C:\Users\Kathee\Desktop\Firefily-Algo-TSPSolver-ec60f7336505a9b0b689af748e1d029291d9b33c\MainForm\bin\Debug\MainForm.pdb
+C:\Users\Kathee\Desktop\Firefily-Algo-TSPSolver-ec60f7336505a9b0b689af748e1d029291d9b33c\MainForm\bin\Debug\FireflyAlgorithm.dll
+C:\Users\Kathee\Desktop\Firefily-Algo-TSPSolver-ec60f7336505a9b0b689af748e1d029291d9b33c\MainForm\bin\Debug\FireflyAlgorithm.pdb
+C:\Users\Kathee\Desktop\Firefily-Algo-TSPSolver-ec60f7336505a9b0b689af748e1d029291d9b33c\MainForm\obj\Debug\TSP Firefly.csproj.CopyComplete
+C:\Users\Kathee\Desktop\Firefily-Algo-TSPSolver-ec60f7336505a9b0b689af748e1d029291d9b33c\MainForm\obj\Debug\MainForm.exe
+C:\Users\Kathee\Desktop\Firefily-Algo-TSPSolver-ec60f7336505a9b0b689af748e1d029291d9b33c\MainForm\obj\Debug\MainForm.pdb
